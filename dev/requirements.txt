@@ -1,0 +1,1 @@
+websockets PyQT5 cryptography secrets
