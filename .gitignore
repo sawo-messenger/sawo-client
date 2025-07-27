@@ -1,0 +1,7 @@
+*
+!.gitignore
+!dev
+!dev/requirements.txt
+!dev/client.py
+!dev/server
+!dev/server.py
